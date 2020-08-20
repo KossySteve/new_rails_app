@@ -1,2 +1,2 @@
 # new_rails_app
-This is a demo rails application to test proper intallation of rails on Ubuntu
+This is a demo rails application to test proper installation of rails on Ubuntu.
